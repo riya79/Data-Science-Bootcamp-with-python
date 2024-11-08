@@ -22,9 +22,9 @@ Predict fuel efficiency using regression models and feature engineering techniqu
 ### Assignment 6: Stress Level Prediction
 Build a model to predict stress levels from various physiological and psychological data points.
 
-## Getting Started
+## Datasets 
 
-To get started with each assignment, navigate to the respective folder and follow the instructions provided in the `README.md` file inside each folder.
+Datasets are uploaded in the same directory itself for these assignments.
 
 
 
